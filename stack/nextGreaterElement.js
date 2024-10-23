@@ -23,3 +23,5 @@ var nextGreaterElement = function(nums1, nums2) {
  
      return nums1.map(num => nextGreaterMap.get(num));
  };
+ //Complexidade de tempo: O(n)
+ //Complexidade de espaço: O(n)
