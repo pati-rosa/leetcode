@@ -27,3 +27,5 @@ var lowestCommonAncestor = function(root, p, q) {
  
  };
  
+
+ //Time complexity: LOG(N)
